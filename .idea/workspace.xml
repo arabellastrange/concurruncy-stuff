@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90f6887-a8ac-4d36-9a6b-510822a234fd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/313-2.iml" afterPath="$PROJECT_DIR$/.idea/313-2.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/cs313-threads.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/DeletingAccountDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/EmployeeMovingMoneyDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/ExampleDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/InsufficientFunds2Driver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/InsufficientFundsDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/MakeJointAccountDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/MovingMoneyDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/OverdraftDriver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/PrintBalanceDrive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/Account$Account_Types.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/Account.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/BankSystem.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/CurrentAccount.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/Customer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/Employee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/PlatinumAccount.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/SavingAccount.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/bank/system/UnlimitedAccounts.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/cs313-threads.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/Driver$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/Driver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/ThreadUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/App$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/App$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/App.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/JThreadGroupComboBox$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/JThreadGroupComboBox.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/ThreadGroupComboBoxModel$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/ThreadGroupComboBoxModel$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/ThreadGroupComboBoxModel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/ThreadTableModel$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs313-threads/threads/gui/ThreadTableModel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/cs313-threads.iml" afterPath="" />
-    </list>
+    <list default="true" id="b90f6887-a8ac-4d36-9a6b-510822a234fd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/bank/UnlimitedAccounts.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -306,6 +267,14 @@
       <updated>1518084659363</updated>
       <workItem from="1518084660899" duration="85000" />
     </task>
+    <task id="LOCAL-00001" summary="notifyAll vs SignalAll tesy">
+      <created>1518630157098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518630157098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -349,6 +318,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="notifyAll vs SignalAll tesy" />
+    <option name="LAST_COMMIT_MESSAGE" value="notifyAll vs SignalAll tesy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -508,7 +481,7 @@
     <entry file="file://$PROJECT_DIR$/bank/UnlimitedAccounts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
