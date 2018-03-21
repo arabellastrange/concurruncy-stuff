@@ -21,6 +21,7 @@ public class GeneticAlgorithm {
 		}
 		
 		for(int i = start; i < newPop.getSize(); i++){
+			//need to increase initial population size
 			Route r1 = sampleSelect(pop);
 			Route r2 = sampleSelect(pop);
 			
